@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Offline reinforcement learning**
 
-- 📫 How to reach me **yongyiluo98@link.cuhk.edu.hk**
+- 📫 How to reach me **yongyiluo@link.cuhk.edu.hk**
 
 
 

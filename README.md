@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for help with **Offline reinforcement learning**
 
-- 📫 How to reach me **yongyiluo98@gmail.com**
+- 📫 How to reach me **yongyiluo98@link.cuhk.edu.hk**
 
 
 
@@ -15,7 +15,8 @@
 
 I obtained my master's degree at EPFL and my bachelor's degree at Sichuan University with several visits to famous academic institutes. I am interested in statistics, machine learning, sequencing data analysis, and healthcare topics.
 
-- **M.S. in Applied Mathematics**: Swiss Federal Institute of Technology Lausanne (EPFL).
+- **Ph.D. in Statistics**: The Chinese University of Hong Kong (CUHK)
+- **M.S. in Applied Mathematics**: Swiss Federal Institute of Technology Lausanne (EPFL)
 - **B.S. in Statistics**: Sichuan University (SCU)
 
 <h3 align="left">Languages and Tools:</h3>

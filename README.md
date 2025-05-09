@@ -15,7 +15,7 @@
 
 I obtained my master's degree at EPFL and my bachelor's degree at Sichuan University with several visits to famous academic institutes. I am interested in statistics, machine learning, sequencing data analysis, and healthcare topics.
 
-- **Ph.D. in Statistics**: The Chinese University of Hong Kong (CUHK)
+- **Ph.D. in Statistics(expected)**: The Chinese University of Hong Kong (CUHK)
 - **M.S. in Applied Mathematics**: Swiss Federal Institute of Technology Lausanne (EPFL)
 - **B.S. in Statistics**: Sichuan University (SCU)
 
